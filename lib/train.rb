@@ -77,4 +77,11 @@ puts train.move :backward
 puts train.move :backward
 puts train.move :backward
 puts train.move :backward
+puts train.move :backward
+puts train.move :backward
+puts train.move :backward
+puts train.move :backward
+puts train.move :backward
+puts train.move :backward
+puts train.move :backward
 sleep 5
